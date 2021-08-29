@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+venv/
+.env
+propensity_model_*.ipynb
+DS_Store
